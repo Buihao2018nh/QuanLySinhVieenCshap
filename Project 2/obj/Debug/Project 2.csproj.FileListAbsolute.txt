@@ -1,0 +1,179 @@
+c:\users\lhuser\documents\visual studio 2013\Projects\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\Admin\Downloads\New folder\C-Project-2-MaiTruongDuy-Frm_Main-\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_DemSoTu.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Hi-p\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.pdb
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.pdb
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_DemSoTu.resources
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.exe
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.pdb
+D:\New folder\C-Project-2-NguyenLongPhu_FrmXuLyDemSoChu\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.TaoSo.resources
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_DemSoTu.resources
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.TaoSo.resources
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.exe
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.pdb
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.pdb
+D:\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Calendar.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Calendar.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_DemSoTu.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.TaoSo.resources
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\User\Downloads\New folder\C-Project-2-Nguy-n-Ho-ng-Anh\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Calendar.resources
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_DemSoTu.resources
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project_2.TaoSo.resources
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\User\Downloads\New folder\Project 02 - 5C final\C-Project-2-MaiTruongDuy-Frm_Main\C-Project-2-NguyenLongPhu\C-Project-2\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\Admin\Desktop\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Admin\Desktop\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\Admin\Desktop\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.Frm_DemSoTu.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.TaoSo.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.ChangePasswd.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.UserControls.UC_Home.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.UserControls.UC_DemSo.resources
+C:\Users\Admin\Desktop\Project 2\Project 2\obj\Debug\Project_2.UserControls.UC_Random.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.ChangePasswd.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.Frm_DemSoTu.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.frm_login.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.TaoSo.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.UserControls.UC_DemSo.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.UserControls.UC_Home.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project_2.UserControls.UC_Random.resources
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\Admin\Desktop\laptrinhCshap\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_Home.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.exe
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.pdb
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.exe
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.exe
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.pdb
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.exe
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.pdb
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\bin\Debug\Guna.UI2.dll
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLySinhVien.resources
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_Home.resources
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.GenerateResource.Cache
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLyLop.resources
+C:\Users\LHUser\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.FrmQuanLySinhVien_Modifies.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.FrmQuanLySinhVien_Modifies.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLySinhVienn.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Frm_DangNhap.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLyLop.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLyNguoiDung.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.ResolveComReference.cache
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Frm_DangNhap.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.FrmQuanLySinhVien_Modifies.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Frm_Main.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_Home.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLyNguoiDung.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLySinhVienn.resources
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.exe
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.pdb
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.exe
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\bin\Debug\Project 2.pdb
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\bin\Debug\Guna.UI2.dll
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Users\buihu\Documents\Zalo Received Files\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.UserControls.UC_QuanLyLop.resources
+C:\Users\Admin\Desktop\QuanLySinhVienCshap-main\Project 2\obj\Debug\Project_2.FrmQuanLyLop_Modified.resources

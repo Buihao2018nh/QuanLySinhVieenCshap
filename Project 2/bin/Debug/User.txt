@@ -1,0 +1,7 @@
+USER0001|phúc|hao|123456|Admin
+USER0018|admin|minh|123456|User
+USER0019|trung|trung|123456|User
+USER0020|admin|admin|12345|User
+USER0021|hao|1234567|12345|User
+USER0022|buihao|123|12345|User
+USER0024|TuyenBaDao|1234|12345|User
